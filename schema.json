@@ -1,0 +1,63 @@
+{
+  "dataset_name": "Credit Risk Loan Defaults",
+  "version": "1.0.0",
+  "created": "2026-08-10T00:06:27.328674Z",
+  "total_records": 3000,
+  "fields": [
+    {
+      "name": "applicant_id",
+      "type": "str",
+      "example": "APP-00001"
+    },
+    {
+      "name": "age",
+      "type": "int",
+      "example": 61
+    },
+    {
+      "name": "annual_income",
+      "type": "int",
+      "example": 39592
+    },
+    {
+      "name": "credit_score",
+      "type": "int",
+      "example": 325
+    },
+    {
+      "name": "employment_status",
+      "type": "str",
+      "example": "Self-employed"
+    },
+    {
+      "name": "loan_amount",
+      "type": "int",
+      "example": 19628
+    },
+    {
+      "name": "loan_term_months",
+      "type": "int",
+      "example": 24
+    },
+    {
+      "name": "debt_to_income_ratio",
+      "type": "float",
+      "example": 0.46
+    },
+    {
+      "name": "num_credit_lines",
+      "type": "int",
+      "example": 4
+    },
+    {
+      "name": "application_date",
+      "type": "str",
+      "example": "2026-05-20"
+    },
+    {
+      "name": "default",
+      "type": "int",
+      "example": 0
+    }
+  ]
+}
